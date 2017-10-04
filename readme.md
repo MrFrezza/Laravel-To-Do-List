@@ -1,3 +1,12 @@
+## Simple To do List
+If you wanna use this application:
+<ul>
+<li>Make sure to have your Mysql, Apache and PHP properly working.</li>
+<li>Just run the command <b>php artisan serve</b> in the root folder of the project.</li>
+<li>Have fun</li>
+</ul>
+
+<br>
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 <p align="center">
